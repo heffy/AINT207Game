@@ -1,0 +1,8 @@
+body {margin: 0 auto;}
+
+#gameDiv {
+    margin: 0 auto;}
+
+#score {
+    position: absolute;
+    color: white;}
